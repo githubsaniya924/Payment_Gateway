@@ -1,7 +1,7 @@
 ## <h2>Payment_Gateway<h2>
 ### **Mobifi** is an e-commerce website designed to showcase products and allow users to make purchases. This project includes dynamic pages, user authentication, and payment integration using PayPal. 
 ### Screenshots of the website
-https://www.ilovepdf.com/download/s7r6237jjzdh59l4w1yfd2rvyypcrfy27jl9kfv9dmcm00A8b85cb9s250pAgkvfzwj1255bbjczfngv70nxtnp4pflrx8ycsd4qn1kx3rqA2r0gsAg7b112r8htf8Azr7s3pbg5b7pvmrcyjr7zlfj3zhts233ty087735qd37426s8w8xq/80
+https://drive.google.com/file/d/18jpVHSFh42LN46z_PR41jkBZLy-TpsnU/view?usp=sharing
 ## Overview
 This is an e-commerce platform designed to allow users to browse products, sign up, log in, and complete purchases. The website includes a **Sign Up** page, **Login** page, **Payment Page** using PayPal, and backend logic to process orders. 
 
