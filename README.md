@@ -1,5 +1,11 @@
-# <h3>Payment_Gateway<h3>
+## <h2>Payment_Gateway<h2>
+### **Mobifi** is an e-commerce website designed to showcase products and allow users to make purchases. This project includes dynamic pages, user authentication, and payment integration using PayPal. 
+## Overview
+This is an e-commerce platform designed to allow users to browse products, sign up, log in, and complete purchases. The website includes a **Sign Up** page, **Login** page, **Payment Page** using PayPal, and backend logic to process orders. 
 
+The website uses **PHP** for dynamic page handling (user authentication, order management) and **Bootstrap 5** for responsive design.
+
+**Important Note**: The files in this project are saved with a `.php` extension, which GitHub Pages does not support for dynamic content. However, you can run and view the website on your local machine using XAMPP (or any other local server setup that supports PHP).
 ## File Descriptions
 
 ### 1. **index.php**
@@ -46,9 +52,14 @@
      - **css/**: Custom styles for the pages.
      - **js/**: Scripts to handle user interactions (e.g., form validation, AJAX requests).
 
-## How to Run
-
-1. **Clone the Repository**:
-   - Clone the repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/mobifi.git
+### Technologies Used
+HTML5: For structuring the content of the pages.
+CSS3: For styling the pages (with Bootstrap 5 for responsive design).
+PHP: For handling form submissions, user authentication, and backend logic.
+MySQL: For storing user details, order information, and transaction records.
+PayPal SDK: For integrating PayPal payments.
+Bootstrap 5: For building responsive and modern layouts.
+### Future Enhancements
+Implement user authentication (login/logout, password recovery).
+Add a shopping cart feature for better order management.
+Improve payment gateway integration with multiple payment options.
